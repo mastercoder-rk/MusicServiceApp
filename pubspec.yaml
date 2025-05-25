@@ -1,0 +1,24 @@
+flutter:
+  assets:
+    - assets/icons/
+name: music_services_app
+description: A Flutter app for music services module.
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  provider: ^6.1.1
+  cloud_firestore: ^4.13.0
+  firebase_core: ^3.3.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/icons/

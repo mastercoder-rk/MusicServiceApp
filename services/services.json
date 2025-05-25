@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Music Production",
+    "description": "Custom instrumentals & film scoring",
+    "icon": "assets/icons/production.png"
+  },
+  {
+    "title": "Mixing & Mastering",
+    "description": "Make your tracks Radio-ready",
+    "icon": "assets/icons/mixing.png"
+  },
+  {
+    "title": "Lyrics Writing",
+    "description": "Turn feelings into lyrics",
+    "icon": "assets/icons/lyrics.png"
+  },
+  {
+    "title": "Vocals",
+    "description": "Vocals that bring your lyrics to life",
+    "icon": "assets/icons/vocals.png"
+  }
+]
