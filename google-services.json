@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "967567320877",
+    "project_id": "rkmusicserviceapp",
+    "storage_bucket": "rkmusicserviceapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967567320877:android:903a43e31ce8cdd00a55a4",
+        "android_client_info": {
+          "package_name": "com.example.RKMUSICAPP"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhvjCrZzlA2mO4juIA9vTEVw0ZWPfftiE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

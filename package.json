@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "arduino": "^0.2.3",
+    "flutter": "^0.0.5"
+  }
+}
